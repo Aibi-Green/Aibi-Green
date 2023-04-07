@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Frontend web development
 
 <!--
 **Aibi-Green/Aibi-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
