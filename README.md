@@ -1,6 +1,5 @@
 ## Hi there 👋
 - 🎓 I'm currently studying **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
-- 🌱 I’m currently learning Frontend web development using [Frontend Developer Roadmap](https://roadmap.sh/frontend) as a guide and [FrontEnd Mentor](https://www.frontendmentor.io/home) for practice.
 
 ### Languages
 [![C](https://skillicons.dev/icons?i=html,css,js,java,c,python)](https://skillicons.dev)
