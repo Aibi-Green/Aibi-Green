@@ -2,10 +2,10 @@
 - 🎓 I'm currently studying **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
 
 ### Languages
-[![C](https://skillicons.dev/icons?i=html,css,js,java,c,python)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=php,tailwind,bootstrap,mysql,postgres,html,css,js,git,java,c,python)](https://skillicons.dev)
 
 ### Tools
-[![C](https://skillicons.dev/icons?i=vscode,eclipse,codepen)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
 ### Contact Me
 email: ivy.lariosa@gmail.com  
