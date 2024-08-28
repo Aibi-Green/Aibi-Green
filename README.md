@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🎓 I'm currently studying **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
+- 🎓 Fresh Graduate of **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
 
 ### Languages
 [![C](https://skillicons.dev/icons?i=php,html,css,js,java,c,python)](https://skillicons.dev)
@@ -14,8 +14,7 @@
 [![C](https://skillicons.dev/icons?i=vscode,eclipse,git)](https://skillicons.dev)
 
 ### Contact Me
-email: ivy.lariosa@gmail.com  
-discord: Drag_sCale #6647
+email: ivy.lariosa@gmail.com
 
 <!--
 **Aibi-Green/Aibi-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
