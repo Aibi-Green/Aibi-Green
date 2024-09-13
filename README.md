@@ -1,6 +1,8 @@
 ## Hi there 👋
-- 🎓 Fresh Graduate of **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
+- Fresh Graduate of **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
+- I love procrastinating
 
+<!--
 ### Languages
 [![C](https://skillicons.dev/icons?i=php,html,css,js,java,c,python)](https://skillicons.dev)
 
@@ -16,7 +18,7 @@
 ### Contact Me
 email: ivy.lariosa@gmail.com
 
-<!--
+
 **Aibi-Green/Aibi-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
