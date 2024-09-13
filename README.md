@@ -1,4 +1,4 @@
-## Hi there 👋
+## Washup
 - Fresh Graduate of **Bachelor Science of Computer Science** at **Polytechnic University of the Philippines**
 - I love procrastinating
 
